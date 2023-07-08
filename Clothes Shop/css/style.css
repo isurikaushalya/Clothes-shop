@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+}
+
+.product-listing .product-card .img-wrp a img{
+    width: 200px;
+    margin: 0 auto;
+    display: block
+}
+.product-listing .product-card .img-wrp a{
+    display: block;
+    margin: 0 auto;
+}
+.product-listing .product-card .card-wrp{
+    border:1px solid;
+    padding: 16px;
+    border-radius: 10px;   
+}
+footer{
+    background-color: rgba(4, 4, 68, 0.199);
+}
+footer .content-wrp .logo-wrp a{
+    font-size: 48px;
+    text-decoration: none;
+    color: black;
+}
+.newsLetter-form .content-wrp .title h5{
+    font-size: 1.15rem;
+}
+.quick-links-wrp .content-wrp .link-list ul{
+    list-style: none;
+    padding-left: 0;
+}
+.quick-links-wrp .content-wrp .link-list ul li{
+    margin: 5px 0;
+}
+.quick-links-wrp .content-wrp .link-list ul li a{
+    color: black;
+    text-decoration: none;
+}

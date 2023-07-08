@@ -1,0 +1,18 @@
+body{
+    background-color: white;
+}
+
+.product-listing .product-card .img-wrp a img{
+    width: 200px;
+    margin: 0 auto;
+    display: block
+}
+.product-listing .product-card .img-wrp a{
+    display: block;
+    margin: 0 auto;
+}
+.product-listing .product-card .card-wrp{
+    border:1px solid;
+    padding: 16px;
+    border-radius: 10px;   
+}
